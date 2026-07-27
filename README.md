@@ -1,13 +1,13 @@
-WORKSHOP_TITLE
+Getting Started with Positron: An AI-Ready Polyglot Workflow for Data Science
 ================
 
 ### posit::conf(2026)
 
-by INSTRUCTOR_NAME
+by François Michonneau and Garrett Grolemund
 
 -----
 
-INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your workshop below. Then, add workshop content in the materials folder and link to each session’s materials from the schedule below. You are welcomed to add more rows to the schedule. We just ask that you take breaks at the specified times. Once you are done adding information, you can remove these instructions from the README.
+INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your workshop below. Then, add workshop content in the materials folder and link to each session’s materials from the schedule below. You are welcome to add more rows to the schedule. We just ask that you take breaks at the specified times. Once you are done adding information, you can remove these instructions from the README.
 
 Alternatively, you can completely redo the organization of this repo  as a Quarto website or some other format you prefer to host your workshop materials. The only requirement is that your workshop materials are hosted here.
 
@@ -22,11 +22,23 @@ Alternatively, you can completely redo the organization of this repo  as a Quart
 
 ## Description
 
-ADD WORKSHOP DESCRIPTION.
+This three-hour workshop provides a quick start for R and Python users who are curious about Positron, Posit’s new AI-ready polyglot code editor for data science. Here, you will learn how to use Positron’s time-saving features to do a typical end-to-end data science task. Along the way, you will learn how to:
+
+- Install packages and set up a reproducible environment
+- Connect to a database
+- Add Positron Extensions
+- Navigate the Command Palette
+- Configure Positron to use your favorite LLM model provider
+- Write, Edit, and Debug code with Positron’s built-in AI Client
+- Use an LLM to explain and translate code
+- Learn the best practices for cleaning and exploring data with LLMs
+- Publish APIs, docs, apps, and more with the Posit Publisher extension
+
+This workshop will be a good fit for you as long as you have a basic familiarity with at least one of R or Python. No installation is necessary. Posit will provide a cloud environment equipped with both Positron and the LLMs we will use during class.
 
 ## Setup
 
-ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN POSIT CLOUD ACCOUNT, ETC.
+ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET A POSIT CLOUD ACCOUNT, ETC.
 
 ## Schedule
 
@@ -42,7 +54,13 @@ ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRI
 
 ## Instructor(s)
 
-ADD INSTRUCTOR(S) INFO.
+### François Michonneau
+
+ADD BIO
+
+### Garrett Grolemund
+
+ADD BIO
 
 -----
 
