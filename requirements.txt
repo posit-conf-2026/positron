@@ -1,0 +1,7 @@
+numpy==2.5.2
+pandas==3.0.5
+plotnine==0.15.8
+great-tables==0.24.0
+scikit-learn==1.9.0
+statsmodels==0.15.0
+scipy==1.18.1
