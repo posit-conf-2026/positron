@@ -5,3 +5,5 @@ great-tables==0.24.0
 scikit-learn==1.9.0
 statsmodels==0.15.0
 scipy==1.18.1
+matplotlib==3.11.1
+shiny==1.7.0
